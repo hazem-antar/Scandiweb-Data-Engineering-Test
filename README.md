@@ -1,6 +1,6 @@
 # Data Engineering Test at Scandiweb
 
-The test reired me to analyze all Pokemons and find the best Pokemon ever that was available
+The test objective was to analyze all Pokemons and find the best Pokemon ever that was available
 in any Pokemon Generation by doing the following steps:
 
 1. Collect information about Pokemons:
